@@ -1,6 +1,6 @@
 import React from "react";
 import "./Header.scss";
-import { NavLink, Link } from "react-router-dom";
+import { Link } from "react-router-dom";
 import { ReactComponent as Logo } from "../../assets/crown.svg";
 import { auth } from "../../firebase/firebase.utils";
 
